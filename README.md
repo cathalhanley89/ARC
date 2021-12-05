@@ -1,3 +1,21 @@
+# Assignment 3: Hand-coding solutions for the Abstraction and Reasoning Corpus
+## Student Name: Cathal Hanley
+## ID: 21251611
+
+## Tasks Chosen
+### 0d3d703e
+Map old values to new values. Take the original values, look up a dictionary (mapper) and replace it with its new 
+value. The original value is the key of the dictionary and the new value is the value e.g. <Original Value> : <New Value>
+
+### 6f8cd79b
+This task requires you to turn all border blocks to the value of 8. 
+I worked this out by taking the first and last each column and row and updating their values from 0 to 8.
+
+### 9172f3a0
+This task requires you magnify/ blow up a 3x3 array into a 9x9 array To solve this I first create an 3x3 array of 
+each element Then creates 3 lists of 3x3 arrays. This would be the rows I then concatenate them to be 3 columns of 
+3x9 arrays After that I had to concatenate them again to be a single 9x9 array.
+
 # The Abstraction and Reasoning Corpus (ARC)
 
 This repository contains the ARC task data, as well as a browser-based interface for humans to try their hand at solving the tasks manually.
