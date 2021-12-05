@@ -1,5 +1,10 @@
 #!/usr/bin/python
 
+# Assignment 3: Hand-coding solutions for the Abstraction and Reasoning Corpus
+# Student Name: Cathal Hanley
+# ID: 21251611
+# Github Link: https://github.com/cathalhanley89/ARC
+
 import os, sys
 import json
 import numpy as np
